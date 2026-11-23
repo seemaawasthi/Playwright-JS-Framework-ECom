@@ -1,0 +1,38 @@
+{
+  "login": {
+    "username": "mk82058105@gmail.com",
+    "password": "Mohit@123"
+  },
+
+
+ 
+
+
+   "address":{
+
+
+"billing_address":"New Address"
+
+  },
+
+   "paymnetinfo":{
+
+
+"payment_mode_by_cod":"You will pay by COD"
+
+  },
+
+   "books":{
+
+
+"book_ComputingandInternetBook":"Computing and Internet",
+"book_Fiction":"Fiction"
+ 
+
+}
+,
+"order": {
+    "successfullOrderMsg": "Your order has been successfully processed!"
+}
+
+}
